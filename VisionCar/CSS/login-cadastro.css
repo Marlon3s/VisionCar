@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+a{
+    color: #FFF;
+}
+
+.box{
+    display: flex;
+}
+
+.form-side{
+    display: block;
+    background-color: #000;
+    width: 40%;
+    height: 100vh;
+    text-align: center;
+    align-items: center;
+}
+
+.logo-tipo{
+    margin-top: 5%;
+    margin-bottom: 20px;
+    width: 280px;
+}
+
+/* CADASTRO */
+.row-logo-tipo{
+    text-align: start;
+}
+
+.logo-tipo-menor{
+    margin-bottom: 20px;
+    width: 54px;
+}
+
+/* CADASTRO */
+
+.form{
+    display: block;
+    color: #FFF;
+    font-style: italic;
+}
+
+.form-label{
+    margin-right: 330px;
+    margin-bottom: 0px;
+}
+
+
+.box-text{
+    margin: 10px;
+    width: 424px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+/* CADASTRO */
+
+.form-documento{
+    display: flex;
+}
+
+.box-text-documento{
+    margin: 15px;
+    width: 200px;
+    height: 45px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+/* CADASTRO */
+
+.box-button{
+    margin: 10px;
+    width: 146px;
+    height: 45px;
+    border-radius: 20px;
+}
+
+
+.login-text{
+    margin-left: 10%;
+    width: 60%;
+    display:flex;
+    text-align: center;
+}
+
+.cadastro-text{
+    margin-right: 10%;
+    width: 60%;
+    display:flex;
+    text-align: center;
+}
+
+
+.texto-generico{
+    color:#656464;
+    font-size: 30px;
+}
